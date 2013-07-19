@@ -1,0 +1,3 @@
+[submodule "lib/plugins/joncom/repeating-collision"]
+	path = lib/plugins/joncom/repeating-collision
+	url = git@github.com:Joncom/impact-repeating-collision.git
